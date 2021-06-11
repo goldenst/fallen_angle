@@ -1,7 +1,9 @@
+import Layout from "../../Components/Layout";
+
 export default function AddArtistPage() {
-    return (
-        <div>
-            <h1>Add Artist</h1>
-        </div>
-    )
+  return (
+    <Layout title=" Add Artist">
+      <h1>Add Artist</h1>
+    </Layout>
+  );
 }
