@@ -1,0 +1,77 @@
+{
+  "artist": [
+    {
+      "id": "1",
+      "name": "DJ Manny Duke",
+      "slug": "dj-manny-duke",
+      "years": 10,
+      "styles": "color painting, portrate, steem punk, gothic",
+      "bio": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+      "image": "/images/sample/event1.jpg",
+      "facebook" : "faccebook.com",
+      "twittter": "twitter.com",
+      "instagram" : "instagram.com"
+    },
+    {
+      "id": "2",
+      "name": "Mr Mky",
+      "slug": "mr-mky",
+      "years": 20,
+      "styles": "color painting, portrate, steem punk, gothic",
+      "bio": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+      "image": "/images/sample/event1.jpg",
+      "facebook" : "faccebook.com",
+      "twittter": "twitter.com",
+      "instagram" : "instagram.com"
+    },
+    {
+      "id": "",
+      "name": "Ms Shela",
+      "slug": "mss-shela",
+      "years": 10,
+      "styles": "color painting, portrate, steem punk, gothic",
+      "bio": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+      "image": "/images/sample/event1.jpg",
+      "facebook" : "faccebook.com",
+      "twittter": "twitter.com",
+      "instagram" : "instagram.com"
+    },
+    {
+      "id": "4",
+      "name": "mike mire",
+      "slug": "mike-mire",
+      "years": 10,
+      "styles": "color painting, portrate, steem punk, gothic",
+      "bio": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+      "image": "/images/sample/event1.jpg",
+      "facebook" : "faccebook.com",
+      "twittter": "twitter.com",
+      "instagram" : "instagram.com"
+    },
+    {
+      "id": "5",
+      "name": "dave non",
+      "slug": "dave-non",
+      "years": 10,
+      "styles": "color painting, portrate, steem punk, gothic",
+      "bio": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+      "image": "/images/sample/event1.jpg",
+      "facebook" : "faccebook.com",
+      "twittter": "twitter.com",
+      "instagram" : "instagram.com"
+    },
+    {
+      "id": "6",
+      "name": "jin joey",
+      "slug": "jin-joey",
+      "years": 10,
+      "styles": "color painting, portrate, steem punk, gothic",
+      "bio": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+      "image": "/images/sample/event1.jpg",
+      "facebook" : "faccebook.com",
+      "twittter": "twitter.com",
+      "instagram" : "instagram.com"
+    }
+ 
+  ]
+}

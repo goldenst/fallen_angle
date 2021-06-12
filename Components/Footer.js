@@ -5,7 +5,7 @@ export default function Footer() {
     return (
         <footer className={styles.footer}>
             <p> Copyright &copy;  2021 Fallen Angle Tattoo</p>
-            <Link href='about'><a>About</a></Link>
+            <Link href='/about'><a>About</a></Link>
     
         </footer>
     )
