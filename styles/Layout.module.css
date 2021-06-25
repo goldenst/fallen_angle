@@ -3,4 +3,8 @@
     max-width: 960px;
     padding: 0 30px;
   }
+
+  .body {
+    background-color: lightgray;
+  }
   

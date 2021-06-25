@@ -11,7 +11,7 @@ export default function Layout({ title, keywords, description, children }) {
   const router = useRouter()
 
   return (
-    <div>
+    <div className={styles.body}>
       <Head>
         <title>{title}</title>
         <meta name="description" content={description} />

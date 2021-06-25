@@ -5,27 +5,27 @@ import { API_URL } from "../../config/index";
 import Layout from "../../Components/Layout";
 import Artists from '../../Components/Artists'
 
-export default function ArtistPage({ artist }) {
-  // console.log(artist)
+export default function ArtistPage({ bios }) {
+   console.log(bios)
   return (
     <Layout>
       <Head></Head>
       <h1> Artist Page</h1>
 
-      {artist.map ((art => 
-        <Artists key={art.id} art={art} />
+      {bios.map ((bio => 
+        <Artists key={bio.id} bio={bio} />
         ))}
     </Layout>
   );
 }
 
 export async function getServerSideProps() {
-  const res = await fetch(`${API_URL}/api/artist`);
-  const artist = await res.json();
+  const res = await fetch(`${API_URL}/bios`);
+  const bios = await res.json();
 
-  // console.log(artist)
+  // console.log(bios)
 
   return {
-    props: { artist },
+    props: { bios },
   };
 }

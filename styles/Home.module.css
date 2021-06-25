@@ -1,3 +1,13 @@
+.background {
+  width: 960px;
+  height: 600px;
+  background-image: url("../public/images/mainbackground.jpeg");
+  background-position: absolute;
+  background-repeat: no-repeat;
+  background-color: black;
+  opacity: 35%;
+}
+
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
@@ -6,10 +16,15 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  background-position: absolute;
+  background-image: url("../public/images/mainbackground.jpeg");
+  background-repeat: no-repeat;
+  background-color: black;
+  opacity: 35%;
 }
 
 .main {
-  padding: 5rem 0;
+  padding: 2rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;

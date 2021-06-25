@@ -6,18 +6,23 @@ export default function Header() {
     <header className={styles.header}>
       <div className={styles.logo}>
         <Link href="/">
-          <a>FAllen Angel</a>
+         <a><img src='/images/logo2 white.svg'/></a> 
         </Link>
       </div>
       <nav>
         <ul>
+        <li>
+            <Link href="/galery">
+              <a>Galery</a>
+            </Link>
+          </li>
           <li>
-            <Link href="artist">
+            <Link href="/artist">
               <a>Artist</a>
             </Link>
           </li>
           <li>
-            <Link href="contact">
+            <Link href="/contact">
               <a>Contact</a>
             </Link>
           </li>
